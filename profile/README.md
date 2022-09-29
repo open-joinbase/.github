@@ -7,7 +7,8 @@
 * One Minute to [Get Started](https://joinbase.io/docs/getting-started/quick-start-enterprise/)
   + 5 seconds: unzip, run joinbase_start to start server, connect to use via psql or MQTT
   + 1 minute: unzip, configure data related paths, run joinbase_start to start server, connect to use via psql or MQTT
-* All-in-One and End-to-End IoT Database, [Batteries Included](https://joinbase.io/docs/getting-started/introduction/)
+* All-in-One and End-to-End IoT Database
+  + [All IoT-wanted batteries included](https://joinbase.io/docs/getting-started/introduction/)
 * Development and Production in One
   + Fastest, scale-up in modern single node to handle 100 million devices, see [`Benchmark`](https://joinbase.io/benchmark/)
   + Smallest, single 3-4MB binary to run from $15 1/4-palm ARM SBCs to 448-vCPU AWS instances
