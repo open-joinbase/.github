@@ -2,8 +2,9 @@
 <a href="https://joinbase.io"><img src="https://github.com/open-joinbase/.github/blob/main/profile/joinbase_icon.png?raw=true" alt="JoinBase"></a>
 </div>
 
-<h1 align="center">Why Use JoinBase</h1>
------------------------------------------
+------------------------
+
+# Why Use JoinBase
 
 * One Minute to [Get Started](https://joinbase.io/docs/getting-started/quick-start-enterprise/)
   + 5 seconds: unzip, run joinbase_start to start server, connect to use via psql or MQTT
