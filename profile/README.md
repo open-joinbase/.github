@@ -1,4 +1,6 @@
+<div align="center">
 ![alt text](https://github.com/open-joinbase/.github/blob/main/profile/joinbase_icon.png?raw=true)
+</div>
 
 <h1 align="center">Why Use JoinBase</h1>
 -----------------------------------------
