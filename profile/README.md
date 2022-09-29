@@ -1,5 +1,7 @@
-Why Use JoinBase
------------------
+![alt text](https://github.com/open-joinbase/.github/blob/main/joinbase_icon.png?raw=true)
+
+<h1 align="center">Why Use JoinBase</h1>
+-----------------------------------------
 
 * One Minute to [Get Started](https://joinbase.io/docs/getting-started/quick-start-enterprise/)
   + 5 seconds: unzip, run joinbase_start to start server, connect to use via psql or MQTT
@@ -12,4 +14,4 @@ Why Use JoinBase
 * Community
   + Feedbacks in [Project](https://github.com/open-joinbase/JoinBase)
   + Discussions in [Reddit](https://www.reddit.com/r/joinbase/) or [Slack](https://joinbaseworkspace.slack.com/join/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)
-  + [Website]()
+  + [Website](https://joinbase.io)
