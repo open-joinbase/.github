@@ -2,8 +2,6 @@
 <a href="https://joinbase.io"><img src="https://github.com/open-joinbase/.github/blob/main/profile/joinbase_icon.png?raw=true" alt="JoinBase"></a>
 </div>
 
-------------------------
-
 ## Why JoinBase
 
 * One Minute to [Get Started](https://joinbase.io/docs/getting-started/quick-start-enterprise/)
