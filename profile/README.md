@@ -1,4 +1,4 @@
-![alt text](https://github.com/open-joinbase/.github/blob/main/joinbase_icon.png?raw=true)
+![alt text](https://github.com/open-joinbase/.github/blob/main/profile/joinbase_icon.png?raw=true)
 
 <h1 align="center">Why Use JoinBase</h1>
 -----------------------------------------
