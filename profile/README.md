@@ -4,7 +4,7 @@
 
 ------------------------
 
-# Why Use JoinBase
+## Why JoinBase
 
 * One Minute to [Get Started](https://joinbase.io/docs/getting-started/quick-start-enterprise/)
   + 5 seconds: unzip, run joinbase_start to start server, connect to use via psql or MQTT
