@@ -1,5 +1,5 @@
 <div align="center">
-![alt text](https://github.com/open-joinbase/.github/blob/main/profile/joinbase_icon.png?raw=true)
+<a href="https://joinbase.io"><img src="https://github.com/open-joinbase/.github/blob/main/profile/joinbase_icon.png?raw=true" alt="JoinBase"></a>
 </div>
 
 <h1 align="center">Why Use JoinBase</h1>
