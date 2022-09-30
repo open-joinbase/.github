@@ -13,6 +13,9 @@
   + Fastest, scale-up in modern single node to handle 100 million devices, see [`Benchmark`](https://joinbase.io/benchmark/)
   + Smallest, single 3-4MB binary to run from $15 1/4-palm ARM SBCs to 448-vCPU AWS instances
   + Freeware, free commercial use everywhere (including cloud services)
+* Seamless Adoption with Two Working Modes
+  + Standalone for full pipeline top performance  
+  + MQTT bridging for working behind existed MQTT brokers
 * Community
   + Feedbacks in [Project](https://github.com/open-joinbase/JoinBase)
   + Discussions in [Reddit](https://www.reddit.com/r/joinbase/) or [Slack](https://joinbaseworkspace.slack.com/join/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)
