@@ -14,7 +14,7 @@
   + Smallest, single 3-4MB binary to run from $15 1/4-palm ARM SBCs to 448-vCPU AWS instances
   + Freeware, free commercial use everywhere (including cloud services)
 * Seamless Adoption with Two Working Modes
-  + Standalone for full pipeline top performance  
+  + Standalone for full-chain top performance  
   + MQTT bridging for working behind existed MQTT brokers
 * Community
   + Feedbacks in [Project](https://github.com/open-joinbase/JoinBase)
