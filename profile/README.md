@@ -17,6 +17,6 @@
   + Standalone for full-chain top performance  
   + MQTT bridging for working behind existed MQTT brokers
 * Community
-  + Feedbacks in [Project](https://github.com/open-joinbase/JoinBase)
-  + Discussions in [Project](https://github.com/open-joinbase/JoinBase/discussions) or [Slack](https://joinbaseworkspace.slack.com/join/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)
+  + Feedbacks in [Project Issues](https://github.com/open-joinbase/JoinBase/issues)
+  + Discussions in [Project Discussions](https://github.com/open-joinbase/JoinBase/discussions) or [Slack](https://joinbaseworkspace.slack.com/join/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)
   + [Website](https://joinbase.io)
