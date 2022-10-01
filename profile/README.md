@@ -18,5 +18,5 @@
   + MQTT bridging for working behind existed MQTT brokers
 * Community
   + Feedbacks in [Project](https://github.com/open-joinbase/JoinBase)
-  + Discussions in [Reddit](https://www.reddit.com/r/joinbase/) or [Slack](https://joinbaseworkspace.slack.com/join/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)
+  + Discussions in [Project](https://github.com/open-joinbase/JoinBase/discussions) or [Slack](https://joinbaseworkspace.slack.com/join/shared_invite/zt-1bizmnl2c-HaXl93gZ5Hnm_ukDAotZzg)
   + [Website](https://joinbase.io)
