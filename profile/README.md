@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://joinbase.io"><img src="https://github.com/open-joinbase/.github/blob/main/profile/joinbase_icon.png?raw=true" alt="JoinBase"></a>
+<a href="https://joinbase.io"><img src="https://joinbase.io/tb-logo.svg" alt="JoinBase"></a>
 </div>
 
 # Welcome to JoinBase :clap:
