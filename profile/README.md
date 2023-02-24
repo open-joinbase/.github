@@ -1,5 +1,7 @@
 # Welcome to JoinBase :clap:
 
+**JoinBase, a single binary AIoT-first data-service platform.**
+
 * One Minute to [Get Started](https://joinbase.io/docs/getting-started/quick-start-enterprise/)
   + unzip, run joinbase_start to start server, connect to use via PQ's psql or HTTP or MQTT (better to configure data related paths at your convenience)
 * Development and Production in One
