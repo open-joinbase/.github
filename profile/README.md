@@ -8,4 +8,4 @@
 * Community
   + Free full-functional community edition [download](https://joinbase.io/products/)
   + Feedbacks in [Project Issues](https://github.com/open-joinbase/JoinBase/issues)
-  + Discussions in [Project Discussions, Discord, Slack and WeChat](https://github.com/open-joinbase/JoinBase) are all welcome 
+  + Discussions in [Project Discussions, Discord, Slack and WeChat](https://github.com/open-joinbase/JoinBase) 
